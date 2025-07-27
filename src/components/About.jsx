@@ -17,7 +17,7 @@ const About = () => {
              <Typewriter
                 words={[
                 "Full Stack MERN Developer",
-                "Coder", "FrontEnd Developer"]}
+                "Compatative Coder", "FrontEnd Developer"]}
                 loop={true}
                 cursor
                 cursorStyle="|"
