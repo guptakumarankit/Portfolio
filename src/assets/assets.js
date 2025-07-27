@@ -162,19 +162,19 @@ export const codingPlatform = [
     id : 0 ,
     Name : "LeetCode",
     image : leetCodePic ,
-    link : "https://leetcode.com/problemset/",
+    link : "https://leetcode.com/u/99_Ankit-Gupta/",
   },
   {
     id : 1 ,
     Name : "GFG",
     image : gfgPic ,
-    link : "https://leetcode.com/problemset/",
+    link : "https://www.geeksforgeeks.org/user/ankitkru86c/",
   },
   {
     id : 2 ,
     Name : "CodeChef",
     image : codechefPic ,
-    link : "https://leetcode.com/problemset/",
+    link : "https://www.codechef.com/users/ankit_99057",
   }
 ] 
 

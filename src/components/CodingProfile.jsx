@@ -9,8 +9,7 @@ const CodingProfile = () => {
         CODING PROFILE
       </div>
       <div className="text-2xl font-semibold text-gray-400 max-w-4xl">
-        My education has been a journey of learning and development. Here are
-        the details of my academic background.
+        I use to sharpen my problem-solving skills and improve my proficiency in data structures and algorithms.
       </div>
 
        <div className='rounded-2xl grid md:grid-cols-3 gap-10 mt-10' >
